@@ -1,3 +1,3 @@
 # MindMapping
 
-I give you my xmind file for note taking during intrusion test whether in training or during a mission.
+I created an xmind template file for my note taking during intrusion test whether in training or during a mission.
